@@ -1,0 +1,11 @@
+{
+   "type": "postgres",
+   "url": "postgres://ivdrxdne:L4qSAsXAqFZAlf4EeRl8BHwLO6_f8RJ7@horton.elephantsql.com:5432/ivdrxdne",
+   "synchronize": true,
+   "logging": false,
+   "entities": [
+      "./classes/entity/**/*.js"
+   ],
+   "migrations": [   ],
+   "subscribers": [   ]
+}
